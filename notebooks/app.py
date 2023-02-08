@@ -8,6 +8,6 @@ def main():
 
     return pd.read_csv('../data/processed/bikes_completed.csv')
 
-# Inicializador
+# Inicializad
 if __name__ == '__main__':
     main()
