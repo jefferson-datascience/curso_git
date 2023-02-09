@@ -6,6 +6,11 @@ import streamlit as st
 # Função Principal
 def main():
 
+
+
+
+
+
     return pd.read_csv('../data/processed/bikes_completed.csv')
 
 # Inicializad
